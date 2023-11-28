@@ -1,0 +1,3 @@
+import LinkedList
+
+print('Hey')
